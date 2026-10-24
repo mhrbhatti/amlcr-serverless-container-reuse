@@ -1,0 +1,9 @@
+ep 25  train lat 1.950  val lat 1.467  val mem frac 0.590  eps 0.29  74s
+ep 50  train lat 2.021  val lat 1.442  val mem frac 0.606  eps 0.23  137s
+ep 75  train lat 1.683  val lat 1.501  val mem frac 0.592  eps 0.16  198s
+ep 100  train lat 1.635  val lat 1.444  val mem frac 0.596  eps 0.10  256s
+ep 125  train lat 1.625  val lat 1.441  val mem frac 0.596  eps 0.04  316s
+ep 150  train lat 1.674  val lat 1.465  val mem frac 0.603  eps 0.04  377s
+ep 175  train lat 1.451  val lat 1.409  val mem frac 0.650  eps 0.04  439s
+ep 200  train lat 1.737  val lat 1.499  val mem frac 0.614  eps 0.04  500s
+saved results/models/c1 best val 1.4094274148148147

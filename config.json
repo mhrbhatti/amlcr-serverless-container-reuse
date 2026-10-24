@@ -1,0 +1,9 @@
+{
+  "mlcr": "results/models/mlcr_q.npz",
+  "c1": "results/models/c1_q.npz",
+  "c12_q": "results/models/c12_q.npz",
+  "c12_ret": "results/models/c12_ret.npz",
+  "mlcr_A": "results/models/mlcrA_q.npz",
+  "c12A_q": "results/models/c12A_q.npz",
+  "c12A_ret": "results/models/c12A_ret.npz"
+}
