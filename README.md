@@ -3,7 +3,7 @@
 Code, trained weights, raw results and figure scripts for the manuscript
 "Adaptive Multi-Level Container Reuse for Cold-Start Latency and Memory Optimization in Serverless Computing".
 
-Zenodo DOI: to be added by the authors after deposition.
+Zenodo DOI: 10.5281/zenodo.23622904
 
 ## What is in this folder
 
